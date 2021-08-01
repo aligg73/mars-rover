@@ -11,3 +11,5 @@ Based on the work done here: https://dev.to/jamesrweb/mars-rover-1e7n
 Feel free to embrace and extend.
 
 Thanks.
+
+P.S. to run the tests, issue: jest (make sure you have installed it globally).
